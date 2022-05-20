@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amit Khairnar
+- 👋 Hi, I’m @JayeshHiray...!
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Angular!
 - 💞️ I’m looking to collaborate on Angular projects
