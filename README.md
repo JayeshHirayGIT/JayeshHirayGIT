@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Angular!
 - 💞️ I’m looking to collaborate on Angular projects
-- 📫 HoW to reach me = through email i.e.,
+- 📫 How to reach me = through email i.e.,
 - jayeshhirayofficial@gmail.com
 
 
